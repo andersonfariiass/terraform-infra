@@ -16,7 +16,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "terraform-aws"
+  default = "my-key-name"
 }
 
 variable "tag" {
